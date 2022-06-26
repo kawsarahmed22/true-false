@@ -4,3 +4,7 @@
 // ""
 // undefined
 // null
+// NaN
+// []
+// {}
+// false
