@@ -8,3 +8,9 @@
 // []
 // {}
 // false
+
+// Truthy value
+
+// "0"
+// " "
+// true
